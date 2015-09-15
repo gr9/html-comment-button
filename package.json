@@ -4,7 +4,7 @@
     "description": "Inspired by Dreamweaver's code editor.  Allows you to apply/remove HTML comments (<!-- ... -->) to/from the currently selected text without touching your keyboard.",
     "homepage": "https://github.com/gr9/html-comment-button",
     "keywords":["HTML","comment","Dreamweaver"],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "author": "Reece Griffin <reece@reecegriffin.com> (http://www.reecegriffin.com)",
     "license": "None - steal this code!",
     "engines": {
